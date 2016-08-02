@@ -1,0 +1,19 @@
+body {
+    background-color: #033314;
+    font-family: 'Lora', serif;
+}
+
+h1 {
+    color: #AAD6B0;
+    margin-left: 20px;
+    font-family: 'Tangerine', cursive;
+}
+
+p{
+    font-family: 'Lora', serif;
+    
+}
+
+.carousel-inner{
+    justify-content:center;
+}
