@@ -8,14 +8,15 @@ body {
 
 h1 {
     color: white;
-    margin-left: 50px;
+    margin-left: 20px;
     font-family: 'Tangerine', cursive;
 }
 
 h3 {
     color: white;
-    margin-left: 50px;
+    margin-left: 20px;
     font-family: 'Tangerine', cursive;
+    font-size: 20px;
 }
 
 h2 {
