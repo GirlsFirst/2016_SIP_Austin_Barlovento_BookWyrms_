@@ -12,26 +12,20 @@ h1 {
 h3 {
     color: white;
     margin-left: 20px;
-    font-family: 'Tangerine', cursive;
+    font-family: 'Lora', serif;
 }
 
 h2 {
     color: white;
     margin-left: 20px;
-    font-family: 'Tangerine', cursive;
+    font-family: 'Lora', serif;
 }
 p{
     font-family: 'Lora', serif;
     color: white
 }
 
-.carousel-inner{
-    justify-content:center;
-} 
+
 a{
     color: white;
-}
-
-.w3-third{
-    font-family: 'Tangerine', cursive;
 }
