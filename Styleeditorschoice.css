@@ -9,6 +9,11 @@ h1 {
     font-family: 'Tangerine', cursive;
 }
 
+h3 {
+    color: white;
+    margin-left: 20px;
+    font-family: 'Tangerine', cursive;
+}
 p{
     font-family: 'Lora', serif;
     color: white
