@@ -4,14 +4,14 @@ body {
 }
 
 h1 {
-    color: #ffffff;
+    color: white;
     margin-left: 20px;
     font-family: 'Tangerine', cursive;
 }
 
 p{
     font-family: 'Lora', serif;
-    color: #ffffff
+    color: white
 }
 
 .carousel-inner{
