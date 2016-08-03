@@ -47,8 +47,13 @@ a{
     width: 15px;
     padding: 10px;
     border: 0px;
+    padding-bottom: 75px;
 }
 
-footer { 
+.footer { 
+    margin-bottom: 0px;
+    text-align: center;
+    height: 50px;
     display: block;
+    background: #033314;
 }
