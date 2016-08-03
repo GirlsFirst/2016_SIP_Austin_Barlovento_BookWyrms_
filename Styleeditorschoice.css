@@ -43,3 +43,7 @@ a{
     padding: 10px;
     border: 0px;
 }
+
+footer { 
+    display: block;
+}
