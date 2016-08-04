@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Search Box Example 1</title>
-<meta name="ROBOTS" content="NOINDEX, NOFOLLOW" /><!DOCTYPE html>
+<meta name="searchbar" content="NOINDEX, NOFOLLOW" />
 <title>Book Wyrms</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
@@ -43,24 +43,19 @@
  <p>
  <input type="text" name="search" placeholder="Search..">
  <!-- HTML for SEARCH BAR -->
-	<div id="tfheader">
-		<form id="tfnewsearch" method="get" action="http://www.google.com">
-		        <input type="text" class="tftextinput" name="q" size="21" maxlength="120"><input type="submit" value="search" class="tfbutton">
-		</form>
-	<div class="tfclear"></div>
-	</div>
+    <div class="input-group">
+        <input type="text" class="form-control" placeholder="Search Site..">
+        <span class="input-group-btn">
+          <button class="btn btn-default" type="button">
+            <span class="glyphicon glyphicon-search"></span>
+          </button>
+        </span>
+      </div>
  </p>
- <div id="refinements" data-baserh=input data-browseladder="
-    </div>
-</div>
+ <script>
+var cars = [""];
+document.getElementById("demo").innerHTML = cars;
+</script>
 </head>
-<body>
-	<!-- HTML for SEARCH BAR -->
-	<div id="tfheader">
-		<form id="tfnewsearch" method="get" action="http://www.google.com">
-		        <input type="text" class="tftextinput" name="q" size="21" maxlength="120"><input type="submit" value="search" class="tfbutton">
-		</form>
-	<div class="tfclear"></div>
-	</div>
 </body>
 </html>
