@@ -1,7 +1,4 @@
 
-li{
-    font-size: 15px;
-}
 #monsterImg {
     width= 25%;
     
@@ -35,9 +32,3 @@ img {
     /*margin: 0px 0px 15px 20px;*/
     
 }
-.footer { 
-    margin-bottom: 0px;
-    text-align: center;
-    height: 50px;
-    display: block;
-    background: #033314;
