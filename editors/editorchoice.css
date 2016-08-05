@@ -29,6 +29,6 @@ img {
     /*margin: 0px 0px 15px 20px;*/
     
 }
-#editor image {
-    
+#booklist {
+   display: block; 
 }
