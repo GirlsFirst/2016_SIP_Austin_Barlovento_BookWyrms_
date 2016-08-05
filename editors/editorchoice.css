@@ -1,5 +1,6 @@
 body{
     margin: 0px;
+    margin-bottom: 25px;
 }
 ul {
     list-style-type: none;
@@ -64,7 +65,7 @@ h3{
 }
 
 p {
-    margin-top: 25px;
+    margin-top: 15px;
     margin-right: 35px;
     margin-bottom: 25px;
     margin-left: 35px;
@@ -79,5 +80,8 @@ img {
     margin-left: 50px;
     float: left;
     /*margin: 0px 0px 15px 20px;*/
+    
+}
+#editor image {
     
 }
