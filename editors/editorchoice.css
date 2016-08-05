@@ -19,6 +19,9 @@ p {
     
 }
 
+ol {
+    font-size: 15px;
+}
 img {
     border-radius: 8px;
     margin-top: 0px;
@@ -30,5 +33,5 @@ img {
     
 }
 #booklist {
-   display: block; 
+   display: block;
 }
