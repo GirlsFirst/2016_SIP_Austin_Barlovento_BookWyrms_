@@ -7,6 +7,12 @@ body {
     color: white
 }
 
+.arrow{
+    margin: 0px;
+    padding: 0px;
+    padding-right: 2px;
+}
+
 h1 {
     color: white;
     margin-left: 20px;
