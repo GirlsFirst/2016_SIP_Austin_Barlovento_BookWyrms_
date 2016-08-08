@@ -8,7 +8,6 @@
     width= 75%;
 }
 
-
 h1 {
     text-align: center;
 }
@@ -21,7 +20,7 @@ p {
 
 img {
     border-radius: 8px;
-    margin-top: 0px;
+    margin-top: 5px;
     margin-bottom: 50px;
     margin-right: 40px;
     margin-left: 50px;
